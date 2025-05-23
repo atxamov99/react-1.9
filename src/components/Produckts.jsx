@@ -1,7 +1,7 @@
 import React from 'react'
-import img from '../assets/snikers.jpg'
-import heart from '../assets/heart.png'
-import cart from '../assets/cart.png'
+import img from '../assets/Snikers.jpg'
+import heart from '../assets/Heart.png'
+import cart from '../assets/Cart.png'
 
 const Produckts = () => {
   return (
